@@ -47,7 +47,7 @@ A modern and responsive **Finance Dashboard** built using React and SCSS to help
 ---
 
 ## Screenshot
-![Dashboard]("C:\Users\himan\OneDrive\Pictures\Screenshots\Screenshot (904).png")
+![Dashboard]("https://github.com/HIMANSHIWANJARI/Finance-Dashboard-UI/blob/main/Dashboard.png")
 ##  Project Structure
 
 ```
