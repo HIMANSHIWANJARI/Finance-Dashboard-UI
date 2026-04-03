@@ -7,29 +7,29 @@ A modern and responsive **Finance Dashboard** built using React and SCSS to help
 
 ## Features
 
-*  **Dashboard Overview**
+##  **Dashboard Overview**
 
   * Displays Total Balance, Income, and Expenses
   * Visual charts for financial trends
 
-* **Transactions Management**
+## **Transactions Management**
 
   * View all transactions
   * Search, filter, and sort functionality
   * Categorized data (Food, Travel, Shopping, etc.)
 
-*  **Role-Based UI**
+##  **Role-Based UI**
 
   * **Viewer**: Read-only access
   * **Admin**: Add, edit, and delete transactions
 
-*  **Insights Section**
+##  **Insights Section**
 
   * Highest spending category
   * Income vs Expense comparison
   * Total savings calculation
 
-*  **UI/UX**
+  ## **UI/UX**
 
   * Clean and modern dashboard design
   * Fully responsive (mobile, tablet, desktop)
